@@ -1,4 +1,5 @@
 "use client";
+import Approach from "@/components/Approach";
 import Clients from "@/components/Clients";
 import Experiences from "@/components/Experiences";
 import Grid from "@/components/Grid";
@@ -17,6 +18,7 @@ export default function Home() {
         <RecentProjects />
         <Clients />
         <Experiences />
+        <Approach />
       </div>
     </main>
   );
