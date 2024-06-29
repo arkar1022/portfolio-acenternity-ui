@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`] (https://github.com/vercel/next.js/tree/canary/packages/create-next-app) using [
+Aceternity UI](https://ui.aceternity.com/).
+
+## Disclaimer
+This project is not my original design. It is developed to familiarize myself with the "Aceternity UI" and improve my skills. All design and resources are credited to Adrian.
 
 ## Getting Started
 
