@@ -204,14 +204,17 @@ export const workExperience = [
 export const socialMedia = [
     {
         id: 1,
+        url: "https://github.com/arkar1022",
         img: "/git.svg",
     },
     {
         id: 2,
+        url: "https://x.com/arkar119",
         img: "/twit.svg",
     },
     {
         id: 3,
+        url: "https://www.linkedin.com/in/arkar-niva/",
         img: "/link.svg",
     },
 ];
